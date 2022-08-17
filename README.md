@@ -1,5 +1,5 @@
 <h1 align="center">What's up 👋, I'm Victor Moraes (AKA Svart)</h1>
-<h3 align="center">Newbie Software Developer learning his ways.</h3>
+<h3 align="center">Newbie Software Developer from Brazil learning his ways.</h3>
 
 - 🔭 Working on **security projects, software dev projects and some other stuff**
 
