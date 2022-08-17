@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **GUI applications.**
 
-- 👨‍💻 All of my projects are available [right here on github (currently working on my portfolio website)](right here on github (currently working on my portfolio website))
+- 👨‍💻 All of my projects are available right here on github (currently working on my portfolio website
 
 - 📫 How to reach me **victormoraespt@gmail.com**
 
