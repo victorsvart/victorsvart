@@ -1,9 +1,9 @@
 <h1 align="center">What's up 👋, I'm Victor Moraes (AKA Svart)</h1>
 <h3 align="center">Newbie Software Developer learning his ways.</h3>
 
-- 🔭 I’m currently working on **security projects, software dev projects and some other stuff**
+- 🔭 Working on **security projects, software dev projects and some other stuff**
 
-- 🌱 I’m currently learning **Python, C++, React.js, Django, Flask, Pandas and Software Security**
+- 🌱 Learning **Python, C++, React.js, Django, Flask, Pandas and Software Security**
 
 - 🤝 I’m looking for help with **GUI applications.**
 
