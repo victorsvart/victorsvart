@@ -3,7 +3,7 @@
 
 - 🔭 Working on **security projects, software dev projects and some other stuff**
 
-- 🌱 Learning **Python, C++, React.js, Django, Flask, Pandas and Software Security**
+- 🌱 Learning **Python, C++, React.js, Django, Flask, Pandas, Software Security and Game Development**
 
 - 🤝 I’m looking for help with **GUI applications.**
 
