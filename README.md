@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **too sweet = bad**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sometime i post stuff here:</h3>
 <p align="left">
 <a href="https://instagram.com/risottoandpizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risottoandpizza" height="30" width="40" /></a>
 </p>
