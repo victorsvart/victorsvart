@@ -1,13 +1,12 @@
 <h1 align="center">What's up 👋, I'm Victor Moraes (AKA Svart)</h1>
 <h3 align="center">Fullstack Software Developer from Brazil learning his ways.</h3>
 
-- 🔭 Working on **fullstack development in .NET Framework, ASP.NET.Core and Angular**
+- 🔭 Working as a **fullstack developer using .NET Framework, ASP.NET.Core and Angular**
 
-- 🌱 Learning **Python, C++, React.js, Django, Flask, Pandas, Software Security and Game Development**
 
 - 👨‍💻 All of my projects are available right here on github.
 
-- 📫 How to reach me **victormoraespt@gmail.com**
+- 📫 How to reach me **victormoraespt4@gmail.com**
 
 - ⚡ Fun fact **too sweet = bad**
 
