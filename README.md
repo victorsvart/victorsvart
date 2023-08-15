@@ -1,7 +1,7 @@
 <h1 align="center">What's up 👋, I'm Victor Moraes</h1>
 <h3 align="center">Fullstack Software Developer from Brazil learning his ways.</h3>
 
-- 🔭 Working as a **fullstack developer using .NET Framework, ASP.NET.Core and Angular**
+- 🔭 Working as a **Fullstack Developer using .NET Framework, ASP.NET.Core and Angular** (For personal projects I mainly use Springboot)
 
 
 - 👨‍💻 All of my projects are available right here on github.
