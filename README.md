@@ -1,4 +1,4 @@
-<h1 align="center">What's up 👋, I'm Victor Moraes (AKA Svart)</h1>
+<h1 align="center">What's up 👋, I'm Victor Moraes</h1>
 <h3 align="center">Fullstack Software Developer from Brazil learning his ways.</h3>
 
 - 🔭 Working as a **fullstack developer using .NET Framework, ASP.NET.Core and Angular**
