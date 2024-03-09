@@ -5,7 +5,6 @@
 
 - 👨‍💻 Core stuff I use:  **.NET Framework, ASP.NET.Core, EF Framework and Angular** (For personal projects I mainly use Springboot)
 
-
 - 📫 How to reach me **victormoraespt4@gmail.com**
 
-- ⚡ Fun fact **too sweet = bad**
+- The guy in the pic is literally me.
