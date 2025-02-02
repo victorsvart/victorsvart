@@ -1,4 +1,4 @@
-<h1 align="center">What's up 👋, I'm Victor Moraes</h1>
+<h1 align="center">What's up 👋, I'm Victor</h1>
 <h3 align="center">Software Engineer from Brazil. Has a tough time trying to sleep.</h3>
 
 - 🔭 Based in Rio de Janeiro
