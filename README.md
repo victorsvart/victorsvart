@@ -3,7 +3,7 @@
 
 - 🔭 Based in Rio de Janeiro
 
-- 👨‍💻 Core stuff I use:  **.NET Framework, ASP.NET.Core, EF Framework and Angular** (For personal projects I mainly use Springboot)
+- 👨‍💻 Core stuff I use:  **NestJS, ReactJS, ASP.NET Core, Angular**
 
 - 📫 How to reach me **victormoraespt4@gmail.com**
 
