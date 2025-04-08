@@ -3,8 +3,6 @@
 
 - 🔭 Based in Rio de Janeiro
 
-- 👨‍💻 Core stuff I use:  **NestJS, ReactJS, ASP.NET Core, Angular**
+- 👨‍💻 Core stuff I use:  **Golang, NestJS, ReactJS, ASP.NET Core, Angular**
 
 - 📫 How to reach me **victormoraespt4@gmail.com**
-
-- The guy in the pic is literally me.
