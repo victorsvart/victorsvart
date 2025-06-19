@@ -1,8 +1,25 @@
-<h1 align="center">What's up 👋, I'm Victor</h1>
-<h3 align="center">Brazilian Software Engineer</h3>
+<h1 align="center">Hey there 👋, I'm Victor</h1>
+<h3 align="center">🇧🇷 Software Engineer</h3>
 
-- 🔭 Based in Rio de Janeiro
+```yaml
+📍 Location:       Rio de Janeiro, Brazil
+💼 Main Stack:     Java | Go | ReactJS | ASP.NET Core | Angular
+📫 Contact:        victormoraespt4@gmail.com
+💬 Languages:      Feel free to reach out in English or Portuguese!
+```
 
-- 👨‍💻 Core stuff I use:  **Golang, NestJS, ReactJS, ASP.NET Core, Angular**
+---
 
-- 📫 How to reach me **victormoraespt4@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorsvart&show_icons=true&theme=github_dark" alt="victorsvart stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsvart&layout=compact&theme=github_dark&hide=html,tex,scss" />
+</p>
+
+---
+
+### You can contact me at:
+
+<p align="left">
+  <a href="mailto:victormoraespt4@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victorsvart"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
