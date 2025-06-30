@@ -6,7 +6,7 @@
 💼 Main Stack:     Java | Go | ASP.NET Core | ReactJS | Angular
 📫 Contact:        victormoraespt4@gmail.com
 
-Feel free to reach out in English or Portuguese!
+Feel free to reach out!
 ```
 
 ---
