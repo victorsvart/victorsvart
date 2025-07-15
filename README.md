@@ -2,8 +2,8 @@
 
 ```yaml
 📍 Location:         Rio de Janeiro, Brazil
-💼 Main Stack:      Java | Go | ASP.NET Core | React | Angular
-📫 Contact:         victormoraespt4@gmail.com
+💼 Main Stack:       Java | Go | ASP.NET Core | React | Angular
+📫 Contact:          victormoraespt4@gmail.com
 
 Feel free to reach out!
 ```
